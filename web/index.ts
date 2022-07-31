@@ -166,12 +166,12 @@ const imageLightOptions: DropdownOption[] = [
   {
     text: "Next.js",
     value:
-      "https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg",
+      "https://raw.githubusercontent.com/jcstein/jpegs/082ae10aea3fe0e7111b2126bb010220771dbf90/jcs-og-07.svg",
   },
   {
     text: "Hyper",
     value:
-      "https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg",
+      "https://raw.githubusercontent.com/jcstein/jpegs/082ae10aea3fe0e7111b2126bb010220771dbf90/jcs-og-07.svg",
   },
 ];
 
@@ -184,12 +184,12 @@ const imageDarkOptions: DropdownOption[] = [
   {
     text: "Next.js",
     value:
-      "https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg",
+      "https://raw.githubusercontent.com/jcstein/jpegs/082ae10aea3fe0e7111b2126bb010220771dbf90/jcs-og-21.svg",
   },
   {
     text: "Hyper",
     value:
-      "https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg",
+      "https://raw.githubusercontent.com/jcstein/jpegs/082ae10aea3fe0e7111b2126bb010220771dbf90/jcs-og-21.svg",
   },
 ];
 
